@@ -2,6 +2,7 @@
 
 int main()
 {
-    std::cout << "Testing.";
+    std::cout << "Testing.\n";
+    std::cout << "Test line 2";
     return 0;
 }
