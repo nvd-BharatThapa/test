@@ -15,8 +15,6 @@ int main()
     std::cin.ignore();
     while (true)
     {
-        
-
         if (hr < 10)
         {
             std::cout << "0" << hr << ":";
