@@ -56,7 +56,7 @@ int main()
         }
         if (hr == 24)
         {
-            hr == 0;
+            hr = 0;
         }
         system("cls");
     }
